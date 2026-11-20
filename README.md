@@ -1,5 +1,4 @@
-cv_flutter_MAPENDO KANYANKOGOTE YANICK
-First tp LIC3 LIAGE
+
 # CV Flutter — MAPENDO Kanyankogote Yanick
 
 Application mobile réalisée avec Flutter et Dart dans le cadre d'un TP à l'ISIG Goma.
